@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Distribuição
+build/
+dist/
+*.spec
+
+# Saves
+saves/*.json
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "categoria": "PHISHING",
+        "pergunta": "Você recebeu um e-mail do banco pedindo sua senha.",
+        "alternativas": [
+            "Enviar a senha",
+            "Reportar phishing",
+            "Responder ao e-mail"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 2,
+        "categoria": "SENHAS",
+        "pergunta": "Qual senha é mais segura?",
+        "alternativas": [
+            "123456",
+            "Empresa2026",
+            "G7#tL9@wQ2!"
+        ],
+        "correta": 2
+    },
+    {
+        "id": 3,
+        "categoria": "BACKUP",
+        "pergunta": "Qual a melhor prática?",
+        "alternativas": [
+            "Nunca fazer backup",
+            "Backup periódico",
+            "Guardar tudo apenas no PC"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 4,
+        "categoria": "FIREWALL",
+        "pergunta": "O firewall deve ficar:",
+        "alternativas": [
+            "Sempre desligado",
+            "Sempre ativado",
+            "Ligado apenas de noite"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 5,
+        "categoria": "USB",
+        "pergunta": "Encontrou um pendrive desconhecido.",
+        "alternativas": [
+            "Conectar imediatamente",
+            "Entregar ao TI",
+            "Levar para casa"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 6,
+        "categoria": "WI-FI",
+        "pergunta": "Rede sem senha é:",
+        "alternativas": [
+            "Segura",
+            "Insegura",
+            "Mais rápida"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 7,
+        "categoria": "ENGENHARIA SOCIAL",
+        "pergunta": "Um estranho pede seu login.",
+        "alternativas": [
+            "Informar",
+            "Negar e avisar o TI",
+            "Anotar em um papel"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 8,
+        "categoria": "MFA",
+        "pergunta": "A autenticação em dois fatores:",
+        "alternativas": [
+            "Aumenta a segurança",
+            "É desnecessária",
+            "Substitui a senha"
+        ],
+        "correta": 0
+    }
+]
